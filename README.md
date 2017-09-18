@@ -1,4 +1,5 @@
-CPSC473Homework2
+# CPSC473Homework2
+Chapter 6
 
 Lana Amin
 
